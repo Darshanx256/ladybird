@@ -2,6 +2,7 @@ set(TEST_SOURCES
     TestLibCoreArgsParser.cpp
     TestLibCoreDeferredInvoke.cpp
     TestLibCoreEventLoop.cpp
+    TestLibCoreFileSystem.cpp
     TestLibCoreMappedFile.cpp
     TestLibCoreMimeType.cpp
     TestLibCorePromise.cpp
